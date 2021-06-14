@@ -9,3 +9,5 @@ My name is Felix, I'm a selft-though and mostly lone wolf programmer. I work mos
 - 😄 Pronouns: he/him
 
 I'm looking into starting in open source collaboration, but I don't know where to start
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkfull-Dante&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
